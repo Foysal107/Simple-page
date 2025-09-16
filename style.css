@@ -115,4 +115,37 @@
       font-size: 0.9rem;
       color: #555;
     }
-  
+
+  section.about img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  .bout{
+   
+    display: flex;
+        flex-direction: row;
+      align-items: center;
+      gap: 2rem;
+      padding: 3rem 2rem;
+      background: #e0e0e0;
+      text-align: center;
+  }
+ .card-image{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+ }
+   .card-image1{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+    .about-text{
+      max-width: 300px;
+    }
+   
+    
