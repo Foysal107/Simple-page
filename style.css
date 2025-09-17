@@ -154,3 +154,26 @@
     align-items: center;
    }
     
+   
+   .about-in-car-pic{
+    text-align: center;
+
+    width: 70vw;
+    border: 2px solid ;
+    border-radius: 2rem;
+ 
+    
+   }
+   .About-in-second-car{
+ 
+   display: flex;
+   flex-direction: column; 
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+  
+   }
+  /* Contact-page */
+
+
+  
